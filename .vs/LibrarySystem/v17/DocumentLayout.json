@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ITC Dev\\source\\repos\\LibrarySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82F3867E-C1EF-40C6-AD7F-3B3FECE3ACBC}|LibraryApi\\LibraryApi.csproj|c:\\users\\itc dev\\source\\repos\\librarysystem\\libraryapi\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F3867E-C1EF-40C6-AD7F-3B3FECE3ACBC}|LibraryApi\\LibraryApi.csproj|solutionrelative:libraryapi\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F3867E-C1EF-40C6-AD7F-3B3FECE3ACBC}|LibraryApi\\LibraryApi.csproj|c:\\users\\itc dev\\source\\repos\\librarysystem\\libraryapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F3867E-C1EF-40C6-AD7F-3B3FECE3ACBC}|LibraryApi\\LibraryApi.csproj|solutionrelative:libraryapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F3867E-C1EF-40C6-AD7F-3B3FECE3ACBC}|LibraryApi\\LibraryApi.csproj|c:\\users\\itc dev\\source\\repos\\librarysystem\\libraryapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F3867E-C1EF-40C6-AD7F-3B3FECE3ACBC}|LibraryApi\\LibraryApi.csproj|solutionrelative:libraryapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ITC Dev\\source\\repos\\LibrarySystem\\LibraryApi\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryApi\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\ITC Dev\\source\\repos\\LibrarySystem\\LibraryApi\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "LibraryApi\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T04:35:59.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ITC Dev\\source\\repos\\LibrarySystem\\LibraryApi\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryApi\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\ITC Dev\\source\\repos\\LibrarySystem\\LibraryApi\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryApi\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T04:35:47.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\ITC Dev\\source\\repos\\LibrarySystem\\LibraryApi\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LibraryApi\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\ITC Dev\\source\\repos\\LibrarySystem\\LibraryApi\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LibraryApi\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T04:34:43.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
